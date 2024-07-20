@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/officialayushyadav1234/officialayushyadav1234/blob/main/Blue%20Minimalist%20Personal%20Branding%20Youtube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ayush Yadav</h1>
 <h3 align="center">A passionate 👍Software Engineer from India.</h3>
 
